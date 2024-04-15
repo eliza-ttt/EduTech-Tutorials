@@ -1,16 +1,16 @@
 # EduTech-Tutorials<br>
-## Course Title: Database Management and SQL<br>
+## Course Title: Database Management and SQL<br><br>
 
 ### Objective: By the end of this course, students will be able to understand the essential of databases, DBMS, and SQL. They will also be able to manupilate SQL queries.
-### There will be lestures, lectures of practicing demonstration, quizes and assignments for self-completion.
+#### There will be lestures, lectures of practicing demonstration, quizes and assignments for self-completion.
 ### Materials Needed: Access to MySQL, PostgreSQL, MS ACCESS, Oracle, or any other DBMS installed.<br><br>
 
 Outline:
 
 ### 1 Introduction
--Expansion and importance of databases in various fields.
--Database Management Systems (DBMS)
--Discussing some commonly used DBMS
+-Expansion and importance of databases in various fields.<br>
+-Database Management Systems (DBMS)<br>
+-Discussing some commonly used DBMS<br>
 -Components of a DBMS.
 ### 2 Introduction to SQL
 -Explaination: SQL is used in conjunction with a DBMS.
