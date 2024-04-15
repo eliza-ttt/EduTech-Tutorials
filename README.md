@@ -2,7 +2,7 @@
 ## Course Title: Database Management and SQL<br><br>
 
 ### Objective: By the end of this course, students will be able to understand the essential of databases, DBMS, and SQL. They will also be able to manupilate SQL queries.
-#### There will be lestures, lectures of practicing demonstration, quizes and assignments for self-completion.<br><br>
+#### There will be lestures, lectures of practicing demonstration, quizes and assignments for self-completion. Practical lessons will be held based on the lectures, and tests will be conducted based on all materials. The assessment will be based on quizzes -40%, a practical demonstration of the creation and manipulation of the topics covered -60%<br><br>
 ### Materials Needed: Access to MySQL, PostgreSQL, MS ACCESS, Oracle, or any other DBMS installed.<br>
 Outline:
 ### 1 Introduction
