@@ -1,18 +1,18 @@
 # EduTech-Tutorials
 <br>
-Database Management and SQL
+![alt text](https://github.com/eliza-ttt/EduTech-Tutorials/blob/main/image1.jpg?raw=true)
 <br>
 <br>
-Here's the link to created interactive course on FreshLearn!
+Here's the link to created interactive course on Google Classroom!
 <br>
-https://alatoo-4512.freshlearn.com/checkout/Course/25930
+https://classroom.google.com/c/Njc0MzAzODMwMzIx?cjc=ilbrbdi
 <br>
 <br>
-And the Youtube 'SQL Practice 1' video link! 
+And the Youtube  videos link! 
 <br>
-https://youtu.be/i8SMLM_k0cw?si=7oXE8bwV9ZXJKqhl
+https://www.youtube.com/playlist?list=PL2qSnIaJRkKvYBKtfnPMrIjP1AG7uO3mx
 <br>
 <br>
 The Presentation of the course is below.
 <br>
-https://www.canva.com/design/DAGCUQhZmM4/0lZls2i8YWxYO2xU7ijX1Q/edit?utm_content=DAGCUQhZmM4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://drive.google.com/drive/folders/1mBguIlKl7oHQPC42AapB-YLtj2umd8ma?usp=sharing
