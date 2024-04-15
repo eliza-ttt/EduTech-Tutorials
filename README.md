@@ -8,25 +8,25 @@
 Outline:
 
 ### 1 Introduction
-Expansion and importance of databases in various fields.
-Database Management Systems (DBMS)
-Discussing some commonly used DBMS
-Components of a DBMS.
+-Expansion and importance of databases in various fields.
+-Database Management Systems (DBMS)
+-Discussing some commonly used DBMS
+-Components of a DBMS.
 ### 2 Introduction to SQL
-Explaination: SQL is used in conjunction with a DBMS.
-The features of SQL.
+-Explaination: SQL is used in conjunction with a DBMS.
+-The features of SQL.
 ### Understanding Tables in SQL
-Concept of a table in SQL as a type of entity.
-How each row in a table represents a specific instance of that entity.
+-Concept of a table in SQL as a type of entity.
+-How each row in a table represents a specific instance of that entity.
 ### Writing Basic SQL Queries
-Demonstrating how to write a basic query.
-WHERE clause and how it’s used.
+-Demonstrating how to write a basic query.
+-WHERE clause and how it’s used.
 ### Advanced SQL Concepts
-Case-insensitive string comparison and wildcard pattern matching in WHERE clauses.
-The use of the DISTINCT.
-Concepts of the GROUP BY clause.
-Discussing the ORDER BY clause.
-The LIMIT and OFFSET clauses.
+-Case-insensitive string comparison and wildcard pattern matching in WHERE clauses.
+-The use of the DISTINCT.
+-Concepts of the GROUP BY clause.
+-Discussing the ORDER BY clause.
+-The LIMIT and OFFSET clauses.
 <br><br>
 Here's the link to created interactive course on Google Classroom!
 <br>
