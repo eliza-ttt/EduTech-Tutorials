@@ -1,6 +1,6 @@
 # EduTech-Tutorials
 <br>
-![image](https://github.com/eliza-ttt/EduTech-Tutorials/blob/main/image1.jpg?raw=true)
+![image](https://lh3.google.com/u/0/d/1GnMqFjionvYSz8oY1eZjjiEUBJW02LnX=w1860-h983-iv1)
 <br>
 <br>
 Here's the link to created interactive course on Google Classroom!
