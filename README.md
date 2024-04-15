@@ -5,7 +5,7 @@
 ### There will be lestures, lectures of practicing demonstration, quizes and assignments for self-completion.
 ### Materials Needed: Access to MySQL, PostgreSQL, MS ACCESS, Oracle, or any other DBMS installed.<br><br>
 
-Lesson Outline:
+Outline:
 
 ### 1 Introduction
 Expansion and importance of databases in various fields.
