@@ -1,7 +1,12 @@
 # EduTech-Tutorials
 <br>
-## Database Management and SQL
+Database Management and SQL
 <br>
-![img1](https://github.com/eliza-ttt/EduTech-Tutorials/blob/main/image1.jpg) <br>
-![img1](https://github.com/eliza-ttt/EduTech-Tutorials/blob/main/image2.jpg)
-![img1](https://github.com/eliza-ttt/EduTech-Tutorials/blob/main/image3.png?raw=true)
+<br>
+Here's the link to created interactive course on FreshLearn!
+<br>
+https://alatoo-4512.freshlearn.com/checkout/Course/25930
+<br>
+And the Youtube 'SQL Practice 1' video link! 
+<br>
+https://youtu.be/i8SMLM_k0cw?si=7oXE8bwV9ZXJKqhl
